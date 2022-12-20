@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anuj jha   
-- 👀 I’m interested in Coding as freelancer...
+- 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on NA
-- 📫 How to reach me anujjha802@gmail.com
+- 📫 My email id-anujjha802@gmail.com
 
 <!---
 anujjha24/anujjha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
